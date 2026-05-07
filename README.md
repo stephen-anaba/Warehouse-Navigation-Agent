@@ -59,6 +59,6 @@ python main.py
 <a href="https://www.linkedin.com/posts/stephen-anaba-738407389_logistics-robot-decision-agent-activity-7457936522105749504-FCaX?utm_source=share&utm_medium=member_desktop&rcm=ACoAAF-ic1wBYzJIB43HQy0TeIvreZSJIQSjfh8">
 <img src="
 https://shields.io
-" alt="LinkedIn Badge">"
+" alt="LinkedIn Badge">
 </a>
  
